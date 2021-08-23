@@ -1,13 +1,13 @@
-Hello ヾ(•ω•`)o~
-I am a 16 years old programmer ˋ( ° ▽、° ) ,
-Cool people that I like:
--ol6666
--AirTech
--GarminBread??
--Reimnop
-...
-things that I want to do next:
----> make a mc server?
----> make a file Mgr??
-...
-this is a test tbh. ヾ(≧▽≦*)o
+Hello ヾ(•ω•`)o~<br>
+I am a 16 years old programmer ˋ( ° ▽、° ) ,<br>
+Cool people that I like:<br>
+-ol6666<br>
+-AirTech<br>
+-GarminBread??<br>
+-Reimnop<br>
+...<br>
+things that I want to do next:<br>
+---> make a mc server?<br>
+---> make a file Mgr??<br>
+...<br>
+this is a test tbh. ヾ(≧▽≦*)o<br>
